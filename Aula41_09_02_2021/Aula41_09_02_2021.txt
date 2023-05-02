@@ -1,0 +1,44 @@
+Aula41_09_02_2021
+
+1º Exercícios de fixação - Herança Página 102
+k19-k31-csharp-e-orientacao-a-objetos.pdf
+Canal FPOO/Arquivos/Material de aula/Material de apoio
+
+
+2º Atividade Individual
+   Polimorfismo - Página 107
+k19-k31-csharp-e-orientacao-a-objetos.pdf
+Canal FPOO/Arquivos/Material de aula/Material de apoio
+
+Entregar todas as classes (prática) e ppt (conceitual, teoria) na pasta:
+Canal FPOO/Arquivos/Entregas/Polimorfismo
+Data: 10/02/2021 17:00
+
+
+3º Atividade em grupo
+Elaborar 10 questões - teóricas - sobre FPOO:
+_classe e objeto;
+_atributo e método;
+_atributos de classe e de instância;
+_encapsulamento;
+_herança;
+_polimorfismo;
+_abstração.
+
+Níveis das questões:
+  4 questões fáceis;
+  4 questões médias;
+  2 questões difíceis.
+
+Cada questão com 5 alternativas (A, B, C, D e E);
+Somente uma correta;
+Indicar qual a alternativa correta (formatar com negrito e em vermelho);
+Sem alternativa do tipo;
+  N.D.A;
+  Todas as anteriores;
+  Nenhuma das anteriores.
+
+CITAR NO DOC (Word) A FONTE (Site, Canal do youtube, Tutorial, etc) DAS QUESTÕES!!!
+
+Entregar na pasta: Canal FPOO/Arquivos/Entregas/Questões FPOO
+Data: 09/02/2021 17:00
