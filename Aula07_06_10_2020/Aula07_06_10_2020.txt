@@ -1,0 +1,92 @@
+Aula07_05_10_2020
+
+EAD SENAI-SP
+https://ead.sp.senai.br/Usuario/Login?ReturnUrl=%2f
+
+Objetivos:
+
+Na aula passada - 01/10/2020
+
+1. Desenvolver uma aplicação console que leia uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.
+Fórmula de conversão: f = (9 * c + 160) / 5
+Resolvido - ok
+
+Palavras chave:
+console - C#
+leia - entrada/input - Temperatura em graus Celsius
+conversão? do que para que? Celsius  para Fahrenheit.
+apresente - saída/output - Temperatura em graus Fahrenheit
+
+Entrada		Processamento		Saída
+c		f = (9 * c + 160) / 5	f
+
+C#
+Leia - entrada
+Console.ReadLine();
+classe .método
+
+Apresente - saída
+Console.WriteLine("");
+Console.WriteLine("Olá mundo!!!");
+
+Resumindo:
+1. Ler o enunciado do problema a ser resolvido;
+
+2. Entendimento do que deve ser feito:
+   2.1. Levantar palavras-chave do enunciado do problema;
+   2.2. Levantar as Entrada(s), Processamento(s) e Saída(s);
+
+3. Levantar as instruções necessárias em C# e JS para:
+   3.1. Entrada(s);
+   3.2. Processamento(s);
+   3.3. Saída(s).
+
+*****************
+Tarefa para 05/10
+*****************
+2. Desenvolver uma aplicação console que leia uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius.
+Fórmula de conversão: c = (f - 32) * 5 / 9
+Resolvido - ok
+
+Palavras-chave:
+console;
+leia/input - graus Fahrenheit (f)
+convertida - processamento: c = (f - 32) * 5 / 9
+apresentá-la/output - graus Celsius (c)
+
+Entrada	Processamento		Saída
+Input	c = (f - 32) * 5 / 9	Output
+f				c
+
+3. Calcular e apresentar o valor do volume de uma lata de óleo utilizando a fórmula:
+vol = 3.1415 * r ^ 2 * altura
+^ potência
+Math.Pow(double x, double y);
+onde:
+x é a base;
+y é o expoente.
+
+2 ^ 8 = 256
+2 é a base e 8 é o expoente.
+
+3.1415 é o valor aproximado de PI.
+
+Entrada(s)	Processamento(s)	Saida(s)
+r		vol=3.1415*r^2*altura	vol
+altura
+
+*******************************
+Para a próxima aula: 08/10/2020
+*******************************
+4. Efetuar o cálculo da quantidade de litros de combustível gastos em uma viagem.
+Para obter o cálculo, o usuário deverá fornecer o tempo gasto e a velocidade média durante a viagem. Desta forma será possível obter a distância percorrida com a fórmula:
+****************************** 
+dist = tempo * vel_media
+******************************
+Sendo a autonomia igual a 12Km/litro e tendo o valor da distância, basta calcular a quantidade de litros de combustível utilizada na viagem com a fórmula:
+******************************
+litros_usados = dist / 12
+******************************
+O programa deverá apresentar os valores da velocidade média, tempo gasto na viagem, a distância percorrida e a quantidade de litros utilizada na viagem. Desenvolver em C# (console) e JS.
+
+5. Exibir os valores do exercício 3 com 2 casas decimais em C# e JS
