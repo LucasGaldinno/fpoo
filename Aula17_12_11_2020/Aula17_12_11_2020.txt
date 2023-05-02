@@ -1,0 +1,42 @@
+Aula17_12_11_2020
+
+Objetivos:
+
+08:00 - 08:30 - Tirar dúvidas
+08:30 - 10:30 - Tirar dúvidas
+10:00 - 10:20 - Intervalo
+10:20 - 11:30 - Tirar dúvidas
+        11:15 - Retornar para a reunião com os professores
+11:30 - 12:00 - Tirar dúvidas
+
+1. Para os alunos com dúvidas - FPOO e SOP: tirar dúvidas.
+    Resolver os exercícios propostos;
+Gustavo - triângulo ok
+Vitória - IMC ok
+Athilas - operador ternário
+Sintaxe em C#
+variable = (condition) ? expressionTrue :  expressionFalse;
+
+Exemplo com if():
+int time = 20;
+if (time < 18) 
+{
+  Console.WriteLine("Good day.");
+} 
+else 
+{
+  Console.WriteLine("Good evening.");
+}
+
+Exemplo com operador ternário
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+Console.WriteLine(result);
+
+2. Para os alunos que NÃO apresentam dúvidas:
+   2.1. Concluir os exercícios da aula passada e;
+   2.2. Desenvolver uma calculadora com as operações básicas (+, -, *, /, potencia e raiz         quadrada, conversão de moedas e conversão de temperatura.
+   Obs: 1. Executar o programa até que uma opção de saída seja informada;
+        2. Validar as entradas.
+
+C#, JS e Python

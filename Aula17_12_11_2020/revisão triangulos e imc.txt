@@ -1,0 +1,63 @@
+1. Triângulos:
+Entradas	Processamento + Saídas
+a, b, c		Se a<b+c e      Se Falso, exibir "Não é triângulo"
+                   b<a+c e      
+                   c<a+b
+                Se a=b e        Se Verdadeiro, ENTÃO exibir "Triângulo Equilátero"
+                   b=c          
+                Se a=b ou	Se Verdadeiro, ENTÃO exibir "Triângulo Isósceles"
+                   a=c ou       SENÃO exibir "Triângulo Escaleno"
+                   c=b
+a b  c
+4 10 9
+Retorna? (S/N) S ou V
+a<b+c  E  b<a+c   E   c<a+b
+4<19   E  10<13   E   9<14
+ V     E    V     E     V = V ou S
+
+a  b  c
+10 3  4
+Retorna? (S/N) Falso ou Não
+a<b+c  E  b<a+c   E   c<a+b
+10<7   E  3<14    E    4<13   
+ F     E   V      E      V   =  F ou N
+"Não forma um triângulo"
+
+************************************
+2. IMC
+6. Desenvolver um programa (console) que leia o peso e a altura de um indivíduo e calcule seu IMC de acordo com a fórmula:
+
+imc = peso / altura ^ 2      ^ - exponenciação
+
+Em C#: imc = peso / (Math.pow(altura,2));
+Em JS: imc = peso / (Math.pow(altura,2));
+Em Python =  peso / (pow(altura,2));
+Com base no valor do IMC, o programa deverá exibir na tela a situação da pessoa de acordo com a tabela a seguir:
+
+Resultado (IMC)		Situação
+Abaixo de 17	        Muito abaixo do peso
+Entre 17 e 18,49	Abaixo do peso
+Entre 18,5 e 24,99	Peso normal
+Entre 25 e 29,99	Acima do peso
+Entre 30 e 34,99	Obesidade I
+Entre 35 e 39,99	Obesidade II (severa)
+Acima de 40	        Obesidade III (mórbida)
+
+imc = peso / altura ^ 2
+1. imc = peso / (altura * altura);
+2. imc = peso / (Math.pow(altura, 2));
+
+Exemplo:
+2 elevado ao quadrado
+2 ^ 2 = 4
+
+Math.pow(base, potencia)
+Math.pow(2, 2)
+
+portugues   ingles
+matematica  math
+potencia    pow  (power)
+
+
+
+
