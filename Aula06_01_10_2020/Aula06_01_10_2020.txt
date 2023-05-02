@@ -1,0 +1,35 @@
+Aula06_01_10_2020
+
+10:30 - Discord
+11:30 - Grupos de estudo
+
+EAD SENAI-SP
+https://ead.sp.senai.br/Usuario/Login?ReturnUrl=%2f
+
+Objetivos:
+
+1. Desenvolver uma aplicação console que leia uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit.
+Fórmula de conversão: f = (9 * c + 160) / 5
+
+Palavras chave:
+console - C#
+leia - entrada/input - Temperatura em graus Celsius
+conversão? do que para que? Celsius  para Fahrenheit.
+apresente - saída/output - Temperatura em graus Fahrenheit
+
+Entrada		Processamento		Saída
+c		f = (9 * c + 160) / 5	f
+
+C#
+Leia - entrada
+Console.ReadLine();
+classe .método
+
+Apresente - saída
+Console.WriteLine("");
+Console.WriteLine("Olá mundo!!!");
+
+
+Tarefa para 06/10
+2. Desenvolver uma aplicação console que leia uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius.
+Fórmula de conversão: c = (f -32) * (5/9)

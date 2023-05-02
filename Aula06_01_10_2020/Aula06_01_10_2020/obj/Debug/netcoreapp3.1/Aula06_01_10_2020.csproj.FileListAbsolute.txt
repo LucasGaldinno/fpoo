@@ -1,0 +1,13 @@
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.exe
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.deps.json
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.runtimeconfig.json
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.runtimeconfig.dev.json
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.dll
+E:\FPOO_1DM\Aula06_01_10_2020\bin\Debug\netcoreapp3.1\Aula06_01_10_2020.pdb
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.csprojAssemblyReference.cache
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.AssemblyInfoInputs.cache
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.AssemblyInfo.cs
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.csproj.CoreCompileInputs.cache
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.dll
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.pdb
+E:\FPOO_1DM\Aula06_01_10_2020\obj\Debug\netcoreapp3.1\Aula06_01_10_2020.genruntimeconfig.cache
