@@ -1,0 +1,85 @@
+Visual Studio Code - IDE
+Ambiente Integrado de Desenvolvimento
+
+Editar código fonte;
+Debugar
+Compilar
+Comitar - Github
+
+Client-Server:
+1. Front-end - Usuário;
+   _Interface da aplicação - tela
+Wireframe
+Web: HTML, CSS, Javascript, Bootstrap, ...
+Mobile: ReactNative, Flutter, XAML, ...
+
+2. Back-end - Servidor;
+Web: Java EE, ASP.NET Core MVC, PHP, node.js
+Mobile: Javascript, C#, ...
+
+Sintaxe:
+
+Para escrever na tela:
+
+Back-end
+Em Java:
+System.out.println("Hello World!");
+
+Em C#
+Console.WriteLine("Hello World!");
+
+Em Python
+print "Hello World"
+
+Em Javascript
+<script>
+   alert("Hello World");
+   console.log("Hello World");
+</script>
+
+Obrigado:
+
+Inglês
+Thanks!
+
+Francês
+Mercy
+
+Espanhol
+Gracias
+
+Italiano
+Grazzie
+
+Para criar um projeto do tipo Console no Visual Studio Code:
+Menu Terminal: Novo Terminal
+No terminal: dotnet new console
+
+Para compilar o código fonte:
+Após a digitação do código fonte em C#, salvar e:
+Menu Terminal: Novo Terminal
+No terminal: dotnet run
+
+Lógica de Programação
+
+Em FPOO - C# e Javascript
+Variáveis e Constantes
+Tipos;
+Operadores;
+Estruturas de Decisão;
+Estruturas de Repetição;
+Vetores;
+Matrizes;
+
+POO - C# e Javascript(Prof. Danilo)
+Classe
+Objeto
+Instância
+Herança
+Polimorfismo
+Abstração
+Encapsulamento
+
+dotnet.microsoft.com/dowloads/dotnet-core/3.1
+
+
