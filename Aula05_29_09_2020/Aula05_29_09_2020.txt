@@ -1,0 +1,113 @@
+Aula05_29_09_2020
+
+Objetivos:
+
+Desenvolver uma aplicação console em C# que leia dois números, some esses dois números e exiba na tela o resultado desta soma.
+
+1. Lógica;
+2. Lógica de programação;
+3. Sequência lógica;
+4. Comandos de entrada, processamento e saída;
+5. Variáveis (nomemclatura) e constantes;
+6. Tipos.
+
+Antes de codificarmos o problema acima:
+1. Entender o problema;
+2. Identificar a(s) Entrada(s) - leia, ler, obter, receba, receber, read, etc;
+3. Identificar o(s) Processamento(s) - cálculos, etc;
+4. Identificar a(s) Saída(s) - escreva, exiba, exibir, mostre, print, etc.
+
+Dispositivos - Sistema de Processamento de Dados:
+Entrada(s)      : Teclado, Mouse
+Processamento(s): Computador (Processador - CPU, Memória RAM, HD, placa mãe)
+                  Sistema Operacional - Windows 7, 8, 8.1, 10/Linux / MacOS
+                  Sistema/Aplicativo
+Saída(s)        : Display/Monitor/Tela/Impressora
+
+Desenvolver uma aplicação console em C# que |leia dois números|, |some esses dois números| e |exiba| na tela o resultado desta |soma|.
+
+Entrada(s)	Processamento(s)		Saída(s)
+Input						Output
+n1 10		soma = n1 + n2			soma
+n2 20
+
+num1		soma = num1 + num2
+num2
+
+numero1		soma = numero1 + numero2
+numero2
+
+Exemplo  E R R A D O  sequência lógica:
+**************************************************************
+Entrada(s)	Processamento(s)		Saída(s)
+soma		n1				soma = n1 + n2
+		n2
+**************************************************************
+
+************
+Observações:
+************
+Não acentuar as entradas;
+Sem espaços em branco;
+Letras minusculas;
+Não iniciar com numeros.
+
+*******************************************
+Comandos de entrada, processamento e saída:
+*******************************************
+C# - CSharp
+1. Saída/Output - Tela:
+Console.Write("Bom dia!!!");
+Console.Write("Digite o número 1: ");
+Console.Write("Digite o número 2: ");
+
+2. Entrada/Input - Teclado:
+Console.Read();
+
+Javascript - JS
+1. Saída/Output - Tela:
+alert("Bom dia!!!");
+alert("Digite o número 1: ");
+alert("Digite o número 2: ");
+
+ou
+
+console.log("Bom dia!!!");
+console.log("Digite o número 1: ");
+console.log("Digite o número 2: ");
+
+ou
+
+prompt("Bom dia!!!");
+prompt("Digite o número 1: ");
+prompt("Digite o número 2: ");	
+				
+2. Entrada/Input - Teclado:
+num1 = parseInt(prompt("Digite o número 1: "));
+num2 = parseInt(prompt("Digite o número 2: "));
+
+Atividades em grupo: PARA 01/10/2020 8:30 as 9:10
+  _Escrever algoritmo para cada item abaixo;
+  _Máximo 6 alunos;
+  _30-35 minutos para o desenvolvimento da tarefa;
+  _Apresentar para a turma os resultados.
+
+1. Fazer 6 doses de café;
+2. Trocar pneu furado;
+3. Trocar lâmpada queimada;
+4. Tomar banho.
+
+Cursos de Competências Transversais:
+    Instruções:
+      Tutorial_Acesso_EAD.pdf (Canal FPOO, Arquivos)
+           Cursos: 
+               _Economia Circular;
+               _Segurança no Trabalho;
+               _Preparação para o Mundo do Trabalho.
+    Data de entraga dos certificados: 14/10 - 11:30
+    Postar/Entregar os certificados em: Canal FPOO, Arquivos, Certificados EAD. 
+    Criar uma pasta com seu nome e postar os certificados nesta pasta.
+      
+Grupos de estudo - Arquivo, Aula04_24_09_2020;
+Discord;
+Sololearn: Módulo 1, Lições de 1 até 5 
