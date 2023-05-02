@@ -1,0 +1,15 @@
+Aula33_12_01_2021
+
+Aula passada: Painel integrador
+
+Domínio;
+Aplicação;
+Objeto;
+Atributos e Métodos;
+Classes;
+Classe vs. Objeto;
+UML no Visual Studio Code
+
+
+Objetivo:
+Implementar os exercícios de fixação e tirar dúvidas.
