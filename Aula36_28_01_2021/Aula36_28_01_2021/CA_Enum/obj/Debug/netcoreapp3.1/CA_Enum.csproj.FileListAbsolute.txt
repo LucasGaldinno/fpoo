@@ -1,0 +1,11 @@
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.exe
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.deps.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.runtimeconfig.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.runtimeconfig.dev.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\bin\Debug\netcoreapp3.1\CA_Enum.pdb
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.csprojAssemblyReference.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.AssemblyInfoInputs.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.AssemblyInfo.cs
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Enum\obj\Debug\netcoreapp3.1\CA_Enum.pdb

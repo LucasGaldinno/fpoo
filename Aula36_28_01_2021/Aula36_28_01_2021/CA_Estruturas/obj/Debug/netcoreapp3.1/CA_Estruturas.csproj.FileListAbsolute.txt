@@ -1,0 +1,11 @@
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.csprojAssemblyReference.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.AssemblyInfoInputs.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.AssemblyInfo.cs
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.exe
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.deps.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.runtimeconfig.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.runtimeconfig.dev.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.pdb
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula36_28_01_2021\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.pdb

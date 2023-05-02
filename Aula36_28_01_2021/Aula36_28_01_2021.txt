@@ -1,0 +1,11 @@
+Aula36_28_01_2021 Qui
+
+Objetivos:
+
+1. Apresentação - Enum & Structs;
+2. Struct sem construtor;
+3. Struct com construtor;
+4. Struct com construtor e encapsulamento;
+5. Exercício 30 minutos - CA_Estruturas.
+
+https://docs.microsoft.com/pt-br/visualstudio/ide/tutorial-3-create-a-matching-game?view=vs-2019
