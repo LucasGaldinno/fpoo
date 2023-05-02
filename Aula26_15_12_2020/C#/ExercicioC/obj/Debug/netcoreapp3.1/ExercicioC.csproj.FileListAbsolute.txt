@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.csprojAssemblyReference.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.AssemblyInfo.cs
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.exe
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.deps.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.runtimeconfig.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.runtimeconfig.dev.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.dll
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\bin\Debug\netcoreapp3.1\ExercicioC.pdb
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.dll
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.pdb
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula26_15_12_2020\C#\ExercicioC\obj\Debug\netcoreapp3.1\ExercicioC.genruntimeconfig.cache

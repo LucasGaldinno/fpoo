@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExercB</title>
+</head>
+<body>
+    <script>
+        var vetorA = new Array(4);
+        var vetorB = new Array(4);
+
+        for(let i = 0; i < vetorA.length; i++){
+            vetorA[i] = parseInt(prompt("Digite um número: "));
+            vetorB[i] = vetorA[i] * 3;
+        }
+
+        for(let i = 0; i < vetorA.length; i++){
+            console.log(`Elemento ${i} = VetorA: ${vetorA[i]} = VetorB: ${vetorB[i]}`);
+        }
+        
+    </script>
+</body>
+</html>

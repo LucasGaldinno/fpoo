@@ -1,0 +1,58 @@
+Aula26_15_12_2020
+
+Correção dos exercícios propostos na última aula
+
+Exercicio B Página 105
+
+vetorA[1..4]  vetorB[1..4]
+vetorA e vetorB com a mesma dimensão
+
+vertorA[0] = 4 vetorB[0] = 12
+vertorA[1] = 7 vetorB[1] = 21
+vertorA[2] = 2 vetorB[2] = 6
+vertorA[3] = 1 vetorB[3] = 3
+
+Os vetores A e B são de MESMA DIMENSÃO, ou seja, possuem o mesmo número de elementos.
+
+Código fonte em Python
+
+*************************
+#ExercicioA, página 105
+#declarando uma lista com 10 elementos
+#numeros = [1,1,1,1,1,1,1,1,1,1]
+#for x in range(0, 10, 1):
+  #numeros[x] = int(input("Digite um número: "))
+
+#Printa a lista completa
+#print(numeros)
+
+*************************
+#ExercicioB, página 105
+vetorA = [1,1,1,1]
+vetorB = [1,1,1,1]
+for x in range(0, 4, 1):
+  vetorA[x] = int(input("Digite um número: "))
+  vetorB[x] = vetorA[x] * 3
+  
+for x in range(0, 4, 1):
+  print(f'Indice {x} -> vetorA = {vetorA[x]} = vetorB = {vetorB[x]}')
+
+*************************
+#ExercicioC, página 105
+vetorA = [1,1,1,1]
+vetorB = [1,1,1,1]
+vetorC = [1,1,1,1]
+
+for x in range(0, 4, 1):
+  vetorA[x] = int(input("Digite um número para o vetorA: "))
+  vetorB[x] = int(input("Digite um número para o vetorB: "))
+  vetorC[x] = vetorA[x] - vetorB[x]
+  
+for x in range(0, 4, 1):
+  print(f'Indice {x} -> vetorA = {vetorA[x]} = vetorB = {vetorB[x]} = vetorC = {vetorC[x]}')
+
+
+
+Falta corrigir - 17/12 Quinta:
+ExercicioC em JS
+Exercicio4 inteiro
