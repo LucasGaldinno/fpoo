@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.csprojAssemblyReference.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.AssemblyInfo.cs
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.exe
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.deps.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.runtimeconfig.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.runtimeconfig.dev.json
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.dll
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\bin\Debug\netcoreapp3.1\exemplo02.pdb
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.dll
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.pdb
+C:\Users\PC\Documents\@@@@@ 2S 2020\CFP115\FPOO\Aula24_08_12_2020\c#\exemplo02\obj\Debug\netcoreapp3.1\exemplo02.genruntimeconfig.cache
