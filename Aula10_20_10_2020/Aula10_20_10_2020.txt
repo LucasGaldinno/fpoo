@@ -1,0 +1,89 @@
+Aula10_20_10_2020
+
+Exercício E) página 37
+
+O que é Case Sensitive?
+Exemplos:
+valor <> Valor <> VaLoR <> vAlOr <> VALOR
+
+Nome de variável:
+    letras minúsculas;
+    sem espaços;
+    sem acentuacao;
+
+1. Algoritmo
+Obter o valor da prestação;
+Obter taxa;
+Obter tempo;
+Calcular a prestação (prest = valor + (valor * (taxa / 100) * tempo);
+Exibir a prestação.
+
+Entrada(s)	Processamento				Saída
+valor		prest = valor + (valor * (taxa / 100) * tempo)	prest
+taxa
+tempo
+
+2. Pseudocódigo
+Programa prestacao
+     Var valor, taxa, tempo, prest: numero;
+Início
+     Leia(valor);    Entrada
+     Leia(taxa);     Entrada
+     Leia(tempo);  Entrada
+     prest = valor + (valor * (taxa / 100) * tempo);    Processamento
+     Escreva(prest);     Saída
+Fim
+
+prest = valor + (valor * (taxa / 100) * tempo)
+         = 1000 + (1000 * (5/100) * 30
+         = 1000 + (1000 * 0,05) * 30
+         = 1000 + 50 * 30
+         = 1000 + 1500
+         = 2500
+
+
+Exercício F) página 37
+
+Entrada	Processamento	Saída
+A = 5	A = (A+B)-A		A = 2 
+B = 2	B = (A+B)-B		B = 5
+
+A1 = (A+B)-A
+A1 = (5+2)-5
+A1 = 7-5
+A1 = 2
+
+B1 = (A1+B)-B
+B1 = (5+2)-2
+B1 = 7-2
+B1 = 5
+
+Entrada	Processamento	Saída
+A = 5	aux = A	1.	A = 2 
+B = 2	A = B	2.	B = 5
+	B = aux    3.
+
+A   B   aux
+5   2    0
+5   2    5                   1.
+2   2    5                   2.
+2   5    5                   3.
+
+Resolução com variável auxiliar (aux)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

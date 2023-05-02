@@ -1,0 +1,23 @@
+Como usar o CLI no Windows
+
+CLI - command-line interface ou interface de linha de comando
+
+C:\Users\Aluno\Documents\Atila\FPOO\Aula10_20_10_2020\csharp
+
+Caminho / Path
+
+Comandos prompt
+
+cls - limpa a tela
+dir - visualizar o diretório (arquivos e diretórios)
+cd (change directory) - mudar/entrar de diretório
+md ou mkdir (make directory) - criar diretório
+
+Quais diretórios que começam com a letra d?
+C:\Users\Aluno
+
+.dotnet
+"Dados de Aplicativos"
+Desktop
+Documents
+Downloads
