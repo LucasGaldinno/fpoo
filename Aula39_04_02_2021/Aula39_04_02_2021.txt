@@ -1,0 +1,8 @@
+Aula39_04_02_2021
+
+Objetivos:
+
+Capítulo 06 - Encapsulamento
+Página 83 da apostila k19-k31-csharp-e-orientacao-a-objetos.pdf
+Canal: FPOO/Arquivos/Material de aula/Material de apoio
+
