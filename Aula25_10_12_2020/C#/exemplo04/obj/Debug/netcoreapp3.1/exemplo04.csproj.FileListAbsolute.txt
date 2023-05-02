@@ -1,0 +1,11 @@
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.exe
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.deps.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.runtimeconfig.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.runtimeconfig.dev.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\bin\Debug\netcoreapp3.1\exemplo04.pdb
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\obj\Debug\netcoreapp3.1\exemplo04.csprojAssemblyReference.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\obj\Debug\netcoreapp3.1\exemplo04.AssemblyInfoInputs.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\obj\Debug\netcoreapp3.1\exemplo04.AssemblyInfo.cs
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\obj\Debug\netcoreapp3.1\exemplo04.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula25_10_12_2020\C#\exemplo04\obj\Debug\netcoreapp3.1\exemplo04.pdb
