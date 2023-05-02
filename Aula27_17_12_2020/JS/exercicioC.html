@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExercC</title>
+</head>
+<body>
+    <script>
+
+        //declaramos os arrays - vetor
+        var vetorA = new Array(4);
+        var vetorB = new Array(4);
+        var vetorC = new Array(4);
+
+        //montar vertores A, B e C
+        for(let i = 0; i < vetorA.length; i++){
+            vetorA[i] = parseInt(prompt("Digite um valor para o vetorA: "));
+            vetorB[i] = parseInt(prompt("Digite um valor para o vetorB: "));
+            vetorC[i] = vetorA[i] - vetorB[i];
+        }
+
+        for(let i = 0; i < vetorA.length; i++){
+            console.log(`${vetorA[i]} \t ${vetorB[i]} \t ${vetorC[i]}`);
+            //console.log(`VetorA ${​​i + 1}​​ = ${​​vetorA[i]}​​ \t VetorB ${​​i + 1}​​ = ${​​vetorB[i]}​​ \t VetorC ${​​i + 1}​​ = ${​​vetorC[i]}​​`);
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.exe
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.deps.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.runtimeconfig.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.runtimeconfig.dev.json
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\bin\Debug\netcoreapp3.1\diagonal_secundaria.pdb
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\obj\Debug\netcoreapp3.1\diagonal_secundaria.csprojAssemblyReference.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\obj\Debug\netcoreapp3.1\diagonal_secundaria.AssemblyInfoInputs.cache
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\obj\Debug\netcoreapp3.1\diagonal_secundaria.AssemblyInfo.cs
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\obj\Debug\netcoreapp3.1\diagonal_secundaria.dll
+C:\Users\Senai\Documents\Atila\FPOO\Aula27_17_12_2020\C#\diagonal_secundaria\obj\Debug\netcoreapp3.1\diagonal_secundaria.pdb

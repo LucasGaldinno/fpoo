@@ -1,0 +1,26 @@
+Aula27_17_12_2020
+
+Continuação da correção dos exercícios propostos em 10/12
+ 
+Exercício C, página 105 em JS (em C# e Python foi corrigido na aula anterior)
+
+Exercício D, página 105
+Código fonte em Python
+#declarar os vetores A e B
+vetorA = [1,1,1,1]
+vetorB = [1,1,1,1]
+
+#montar os vetores A e B
+for i in range(0, 4, 1):
+  vetorA[i] = int(input("Digite um número: "))
+  #vetorB[i] = vetorA[i] * vetorA[i];
+  vetorB[i] = pow(vetorA[i], 2)
+
+#exibindo os vetores A e B
+for i in range(0, 4, 1):
+  print(f'vetorA[{i}] = {vetorA[i]}  vetorB[{i}] = {vetorB[i]}')
+
+Exercícios extra:
+Ler os elementos de uma matriz quadrada 3x3 e exibir somente os elementos da diagonal secundária. 09:30 as 9:50
+
+
