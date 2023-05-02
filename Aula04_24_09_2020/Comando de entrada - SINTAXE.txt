@@ -1,0 +1,20 @@
+Comandos ou Intruções:
+
+
+SINTAXE:
+
+Saída ou Output
+Em C# (C Sharp)
+Console.Write("Olá mundo!!!");
+
+Em Javascript ou JS
+console.log('Olá mundo!!!');     ou
+console.log("Olá mundo!!!");
+
+console.log(' "Olá mundo!!!" '); não existe
+
+Em Python
+print ('Olá mundo!!!')
+
+Em Java
+System.out.println("Olá mundo!!!");

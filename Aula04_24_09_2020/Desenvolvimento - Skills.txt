@@ -1,0 +1,55 @@
+Desenvolvimento - Programação
+
+1. Front-end ou Programação Visual
+
+Base:
+HTML;
+CSS;
+Bootstrap;
+Javascript.
+
+1.1. Web Front-end:
+Angular
+React
+Blazor/Razor
+.
+.
+.
+
+1.2. Mobile Front-end
+XAML;
+Flutter;
+React Native
+
+
+2. Back-end - Dev
+
+Base:
+C#;
+Javascript;
+
+2.1. Web Back-end
+PHP;
+ASP.NET MVC
+Java EE
+nodeJs
+
+
+2.2. Mobile Back-end
+Ruby
+Kotlin
+C#
+JS
+
+3. Banco de Dados
+MySQL
+MariaDB
+SQL Server - Microsoft
+PostgreeSQL
+Oracle
+
+MongoDB
+SQLite
+
+
+

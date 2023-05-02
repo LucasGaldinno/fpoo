@@ -1,0 +1,44 @@
+Grupos de estudo - Turma 1DM
+
+Python:
+
+Grupo 1:
+Tiago, 
+Hugo, 
+Thais, 
+Daniel, 
+
+Grupo 2:
+Patrick, 
+Oseias, 
+Alberto, 
+Jefferson, 
+Roy
+
+Grupo 3:
+Antonio Augusto, 
+Carol Oliveira, 
+Lucas, 
+Ryan e,
+Yann Kadson
+
+Grupo 4: 
+Douglas, 
+Larissa, 
+João Duarte,
+João Otavio e,
+Vitoria.
+
+Java
+Grupo 5: 
+Iris, 
+Luiz, 
+Wanessa e,
+Gustavo
+
+Grupo 6 - Python
+Mário Lucca, 
+Patrick de Almeida Borges, 
+Gabriel, 
+João Silva,
+Oseias

@@ -1,0 +1,10 @@
+Desenvolver uma aplicação console em C# que leia dois números, some esses dois números e exiba na tela o resultado desta soma.
+
+Para criar uma aplicação console:
+Menu Terminal,
+Opção Terminal,
+No terminal digitar: dotnet new console <Enter>
+
+Para rodar uma aplicação console:
+No terminal: dotnet run
+
