@@ -1,0 +1,16 @@
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.exe
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.deps.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.dev.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\ref\Construtores.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\bin\Debug\net5.0\Construtores.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.csprojAssemblyReference.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfoInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfo.cs
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.csproj.CoreCompileInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\ref\Construtores.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula35_26_01_2021\Construtores\obj\Debug\net5.0\Construtores.genruntimeconfig.cache
