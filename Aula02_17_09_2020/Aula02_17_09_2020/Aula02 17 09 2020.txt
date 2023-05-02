@@ -1,0 +1,16 @@
+Aula02 17 09 2020
+
+Para FPOO - Hoje
+1. dotnet-sdk-3.1.402-win-x64
+https://dotnet.microsoft.com/download
+
+2. Visual Studio Code
+https://code.visualstudio.com/Download
+
+CLI - Command Line Interface
+
+Um programa escrito na linguagem C# (C sharp) tem a extensão .cs
+
+Um programa escrito na linguagem javascript tem a extensão .js
+
+Um programa escrito na linguagem java tem a extensão .java
