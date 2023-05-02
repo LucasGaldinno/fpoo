@@ -1,0 +1,82 @@
+Aula23_03_12_2020
+
+Pré requisitos:
+Lógica; Sequência lógica, Algoritmos, Fluxograma com teste de mesa;
+Variáveis;
+Tipos;
+Operadores: Aritméticos, Lógicos e Relacionais;
+Estruturas de decisão: if()
+Estruturas de repetição: for, while, do ... while
+***********************
+
+1. Desenvolver um programa que leia as quatro notas bimestrais de um aluno e calcule sua média final.
+Se a média final for maior ou igual a 7, então exibir na tela "Aprovado";
+Senão Se a média final for < 5, então exibir "Reprovado";
+Senão exibir "Recuperação".
+
+2. Desenvolver um programa que exiba o quadrado dos números pares de 0 a 20.
+0 - 0
+2 - 4
+4 - 16
+6 - 36
+8 - 64
+10 - 100
+12 - 144
+14 - 196
+16 - 256
+18 - 324
+20 - 400
+
+3. Desenvolver um programa que apresente no final o total da soma obtida dos valores entre 50 e 100.
+
+Vamos supor enter 1 e 10
+1º Pensar no loop
+i = 1
+while(i <= 10)
+{
+    
+}
+
+2º Pensar nas instruções dentro do loop
+1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
+??? = ??? + i
+??? = ??? + 1
+
+??? = 1   + i
+   
+
+4. Desenvolver um programa que receba os valores inicial, final e passo e exiba os números compreendidos entre os valores inicial e final.
+
+Exemplo:
+Digite o valor inicial : 1
+Digite o valor final   : 10
+Digite o valor do passo: +1 //valor final > valor inicial
+Saída na tela: 1 2 3 4 5 6 7 8 9 10
+
+Digite o valor inicial : 10
+Digite o valor final   : 1
+Digite o valor do passo: -1 //valor final < valor inicial
+Saída na tela: 10 9 8 7 6 5 4 3 2 1
+
+Variaveis:
+v_i, v_f, passo
+
+Loop: while
+valor inicial;
+while(valor final)
+{
+   Instruções;
+   passo;
+}
+
+
+
+
+
+
+
+
+
+
+
+

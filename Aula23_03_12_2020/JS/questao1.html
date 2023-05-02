@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão1</title>
+</head>
+<body>
+    <script>
+        //declarar variaveis
+        var nota1, nota2, nota3, nota4, media_final;
+
+        //entrada
+        nota1 = parseFloat(prompt("Digite a sua primeira nota: "));
+        nota2 = parseFloat(prompt("Digite a sua segunda  nota: "));
+        nota3 = parseFloat(prompt("Digite a sua terceira nota: "));
+        nota4 = parseFloat(prompt("Digite a sua quarta   nota: "));
+
+        //processamento + saida
+        media_final = (nota1 + nota2 + nota3 + nota4) / 4;
+
+        if (media_final >= 7) {
+            alert("Parabéns, você está aprovado!!!");
+        }
+        else if (media_final < 5) 
+        {
+            alert("Infelizmente, você está reprovado. Estude mais!!!");
+        }
+        else 
+        {
+            alert("Você está de recuperação!!!");
+        }
+
+    </script>
+</body>
+</html>

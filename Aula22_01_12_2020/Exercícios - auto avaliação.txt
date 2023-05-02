@@ -1,0 +1,27 @@
+Exercícios - auto avaliação
+***************************
+
+08:30 as 10:00 - Auto avaliação
+10:00 as 10:20 - Intervalo
+10:20 as 11:30 - Tirar dúvidas dos exercícios
+
+***********
+Instruções:
+***********
+1. Individual;
+2. Pode consultar a internet;
+3. Atenção ao prazo para realização dos mesmos;
+4. Anotem as dificuldades para que possamos conversar a respeito;
+5. Desenvolver em uma das seguintes linguagens: C# ou JS ou Python;
+6. Entregar os exercícios: Canal SOP / Entrega Exercício FPOO
+7. Entregar um print do código-fonte e do programa rodando.
+
+*************************************
+1. Desenvolver um programa que leia as quatro notas bimestrais de um aluno e calcule sua média final.
+Se a média final for maior ou igual a 7, então exibir na tela "Aprovado";
+Se a média final for < 5, então exibir "Reprovado";
+Senão exibir "Recuperação".
+
+2. Desenvolver um programa que exiba o quadrado dos números pares de 0 a 20.
+
+3. Desenvolver um programa que apresente no final o total da soma obtida dos valores entre 50 e 100.

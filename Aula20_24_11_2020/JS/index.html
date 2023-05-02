@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fatorial</title>
+</head>
+<body>
+    <script>
+        var num = parseInt(prompt("Digite um número inteiro qualquer: "));
+
+        //declarar variaveis
+        var contador = 1, fatorial = 1;
+
+        while (contador <= num) {
+            fatorial = fatorial * contador;
+            contador++;
+        }
+        alert(`${num}! = ${fatorial}`);
+    </script>
+</body>
+</html>

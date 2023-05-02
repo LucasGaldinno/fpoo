@@ -1,0 +1,207 @@
+Aula19_19_11_2020
+
+**********
+Objetivos:
+**********
+
+Iniciar os estudos sobre as Estruturas de Repetição/Loop/Laço.
+Na aula passada estudamos a Estrutura de Repetição For(){}   17/11/2020 - Terça
+Hoje vamos estudar a        Estrutura de Repetição While(){} 19/11/2020 - Quinta
+
+*********************************
+Estruturas de Repetição/Loop/Laço
+*********************************
+1. For()
+2. While()
+3. Do ... While()
+4. ForEach()
+
+************
+Observações:
+************
+1. Toda estrutura de repetição tem um INÍCIO e um FIM.
+2. Essas estruturas servem para AUTOMATIZAR tarefas repetitivas no código.
+
+*******************************************
+1. Desenvolver um programa que leia cinco números inteiros e exiba esses números na tela.
+*******************************************
+int num1, num2, num3, num4, num5;
+
+Console.Write("Digite o número 1: ");
+num1 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Digite o número 2: ");
+num2 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Digite o número 3: ");
+num3 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Digite o número 4: ");
+num4 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Digite o número 5: ");
+num5 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Número 1 = " + num1);
+Console.WriteLine("Número 2 = " + num2);
+Console.WriteLine("Número 3 = " + num3);
+Console.WriteLine("Número 4 = " + num4);
+Console.WriteLine("Número 5 = " + num5);
+
+*************************
+Vamos reproduzir o código acima usando as Estruturas de Repetição
+*************************
+
+***************
+1. for() - Para
+***************
+SINTAXE:
+for(valor inicial; valor final; passo)
+{
+   Instruções a serem executadas;
+}
+
+int num, i; //variável i que controla o loop
+
+for(i = 1; i <= 5; i++)
+{
+    Console.Write("Digite o número " + i);
+    num = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine($"Número{i} = {num}");
+}
+
+Neste exemplo:
+valor inicial: i = 1
+valor final  : i <= 5    ou    i < 6
+passo        : i++
+
+1   +1	 2   +1	  3   +1   4   +1   5
+Inicial				    Final
+Passo: +1
+i++	é a mesma coisa que i = i + 1
+
+***********************
+2. While() - Enquanto()
+***********************
+SINTAXE:
+while(condição)
+{
+   Instruções a serem executadas;
+}
+
+Estrutura for(){} vs. Estrutura while(){}
+
+1. Sintaxe da Estrutura FOR()
+for(valor inicial; valor final; passo)
+{
+   Instruções a serem executadas;
+}
+
+2. Sintaxe da Estrutura while()
+valor inicial;
+while(valor final)
+{
+   Instruções a serem executadas;
+   passo;
+}
+
+*******************************************
+1. Desenvolver um programa que leia cinco números inteiros e exiba esses números na tela.
+*******************************************
+Vamos resolver este problema com a Estrutura de repetição while(){}
+
+int i, num; //variável i que controla o loop
+
+i = 1; //valor inicial
+while(i <= 5) //valor final
+{
+    Console.WriteLine("Digite o número: " + i);
+    num = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine($"Número{i} = {num}");
+    i++; //passo
+}
+
+**********************
+Exercício A, página 90
+**********************
+Apresentar os quadrados dos números inteiros de 15 a 200.
+Usando a Estrutura de repetição: for()
+
+*****
+Dica: 
+1. Pensar primeiro na estrutura de repetição (valor inicial, valor final, passo);
+2. Pensar nas instruções contidas na estrutura de repetição.
+********************
+
+1. for(valor inicial; valor final; passo/incremento)
+   for(    15       ;      200   ;   +1 )
+
+   for(valor inicial; valor final; passo/decremento)
+   for(    200      ;      15    ;   -1 )
+
+   int i;
+   for(i = 15       ;   i <= 200 ;  i++ )
+   {
+   	Instruções a serem executadas;	
+   }
+
+2. Instruções:
+   Apresentar o quadrado do número
+   1. Declarar variáveis (fora da estrutura de repetição)
+   2. Quadrado/Potência: Math.pow(base, expoente);
+                         Math.pow(num , 2);     ou
+                         num * num;
+   3. Exibir o número elevado ao quadrado.
+   Obs: Passos 2 e 3 dentro da estrutura de repetição.
+
+**********************
+Exercício A, página 90
+**********************
+Apresentar os quadrados dos números inteiros de 15 a 200.
+Usando a Estrutura de repetição: while()
+int i = 15;
+while(i <= 200)
+{
+    Console.WriteLine($"O quadrado de {i} = {Math.Pow(i, 2)}");
+    i++;
+}
+
+*******************************************
+1. Desenvolver um programa que calcule o fatorial de um número inteiro qualquer. 
+Desenvolver nas linguagens C#, JS e Python.
+Exemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120
+
+***********************
+Resolução do exercício sobre Fatorial:
+***********************
+Em C#
+int i = 15; //valor inicial
+while (i <= 200) //valor final
+{
+    //Console.WriteLine($"O quadrado de {i} = {Math.Pow(i, 2)}"); //interpolação
+    Console.WriteLine("O quadrado de " + i + " = " + Math.Pow(i, 2)); //concatenação
+    i++; //passo
+}
+********************************
+Em Python:
+from math import pow
+
+#valor inicial
+i = 15
+
+#valor final
+while i <= 200:
+  print('{} ao quadrado = {}'.format(i, pow(i,2)))
+  i += 1
+********************************
+Em Javascript - js
+<script>
+  var i = 15;
+  while(i <= 200)
+    {
+       console.log("O quadrado de " + i + " = " + Math.pow(i, 2));
+       i++;
+    }
+</script>

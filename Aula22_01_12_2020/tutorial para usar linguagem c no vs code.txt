@@ -1,0 +1,73 @@
+1ª Procure as seguinte extensões no Visual Studio Code para baixar e instale: 
+
+C/C++ - Versão v1.1.2
+
+C/C++ Compile Run - Versão v1.0.13
+
+2ªBaixe um software chamado: MingGW
+
+Abra o navegador de internet que preferir e digite na barra de endereço esse link:  https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
+
+Ao colar na barra de pesquisa do navegador e dar enter, o download do software vai começar automaticamente 
+
+O arquivo que será baixado automaticamente se chama:  mingw-get-setup
+Vá aonde ficou salvo o arquivo chamado mingw-get-setup, o normalmente é salvo no na pasta Downloads.
+
+Clique nesse arquivo duas vezes e siga isso abaixo:
+
+clique em: install
+clique em: continue
+
+Espere baixar os arquivos necessário para o software MingGW funcionar corretamente.
+Quando terminar irá aparecer um opção para clicar chamada: close
+
+Depois de clicar em close, irá aparecer essa tela para escolher os recursos que serão instalados, selecione mingw32-base e o mingw32-gcc-g++.
+
+Para selecionar basta clicar no botão esquerdo em cima do recursos citado acima, em seguida clique em: mark for installation.
+
+Procure o menu chamado installation, clica nele e depois em apply changes.
+
+Na aproxima janela que aparecer clique em apply, agora será baixado os recursos mingw32-base e o mingw32-gcc-g++.
+
+Quando estiver terminado, vai aparecer uma tela com a opção close, faça isso clica em close.
+
+Agora pode fechar o MinGW Installation Manager
+
+3ª Se estiver no Windows 10, para ser mais rápido, escreva na caixa de pesquisa isso: “exibir configurações avançadas do sistema” e depois clique nessa opção
+
+Ao fazer o passo anterior, na tela que vai aparecer, clique em “variáveis de ambiente”
+
+No Windows 7, clique no Iniciar, e depois clique com o botão direito em Computador, e em seguida em Propriedades.
+No lado esquerdo clique em Configurações avançadas do sistema.
+Na tela que irá aparecer clique em: variáveis de ambiente.
+
+Voltando para o windows 10
+
+Em variáveis do sistema, vá onde está escrito path e clica duas vezes nesse path
+
+Na tela que vai aparecer, clica em “novo” copie e cole isso sem aspas duplas:  “C:\MinGW\bin”
+
+Depois de copiar e colar, clica em ok
+
+Clica em ok novamente
+
+Vamos testar se instalamos corretamente, abra o Prompt de Comando e digite “gcc”.
+
+Se parecer isso abaixo no cmd, está funcionando.
+
+"gcc: fatal error: no input files
+compilation terminated"
+
+Exemplo de um programa Hello World na linguagem C:
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+    printf("Hello, World");
+}
+
+
+Para executar o programa em C, aperte o F7 no vs code e depois enter e irá aparecer o código sendo executado.
+
+
