@@ -1,0 +1,19 @@
+Exercício página 45 do livro
+
+Entrada(s)		Processamento(s)+Saída(s)
+salario		Se salario < 500, então                       15%
+		Se salario >= 500 e salario <= 1000   10%
+		Se salario > 1000                                5%
+
+Em Python:
+salario = int(input('Digite seu salário: '))
+
+if salario < 500:
+  novo_salario = salario * 1.15
+elif salario >=500 and salario < 1000:
+  novo_salario = salario * 1.10
+else:
+  novo_salario = salario * 1.05
+print('Seu novo salário é: {:.2f}'.format(novo_salario))
+
+	

@@ -1,0 +1,65 @@
+Aula14_03_11_2020
+
+FPOO - Fundamentos de Programação Orientada a Objeto
+
+Objetivos:
+
+*****************************
+Estruturas de decisão - C#
+*****************************
+Capítulo04 do Material de apoio
+
+**********
+Desafios:
+**********
+1. Desenvolver um programa (console) que converta um número decimal para binário e de binário para decimal.
+
+2. Desenvolver um programa  (console) que leia um número inteiro qualquer e exiba na tela se este número é "Par" ou "Ímpar".
+
+3. Desenvolver um programa (console) que leia três números (num1, num2, num3) inteiros quaisquer e exiba na tela:
+    3.1. Qual é o maior número;
+    3.2. Qual é o menor número;
+    3.3. Qual é a soma desses números;
+    3.4. Qual a média desses números.
+
+3.3. Soma
+soma = 0
+num1 = 3
+num2 = 5
+num3 = 7
+soma = 15
+soma = soma + num1  0 + 3 = 3
+soma = soma + num2  3 + 5 = 8
+soma = soma + num3  8 + 7 = 15
+
+3.4. Média
+media = soma / 3    
+media = 15     / 3 = 5
+
+
+4. Desenvolver um programa  (console) que leia quatro notas bimestrais (n1, n2, n3 e n4) e  calcule a média final (mf) de um aluno qualquer.
+Fórmula para o cálculo da média final:
+mf = (num1 + num2 + num3 + num4) / 4 Resolvido
+
+Com base nessa média exibir a situação do aluno segunda as regras a seguir:
+Se mf for maior ou igual a 5, então exibir na tela "Aprovado";
+Senão, exibir na tela "Reprovado".
+
+5. Desenvolver um programa  (console) que leia quatro notas bimestrais (n1, n2, n3 e n4) e com base nessas quatro notas calcule a média final (mf) de um aluno qualquer. 
+Com base nessa média exibir a situação do aluno segunda as regras a seguir:
+Se mf for menor que 5, então exibir na tela "Reprovado";
+Se mf for maior ou igual que 7, então exibir na tela "Aprovado";
+Senão, exibir na tela "Recuperação". Resolvido
+
+6. Desenvolver um programa (console) que leia o peso e a altura de um indivíduo e calcule seu IMC de acordo com a fórmula:
+imc = peso / altura ^ 2
+Com base no valor do IMC, o programa deverá exibir na tela a situação da pessoa de acordo com a tabela a seguir:
+
+Resultado		Situação
+Abaixo de 17	Muito abaixo do peso
+Entre 17 e 18,49	Abaixo do peso
+Entre 18,5 e 24,99	Peso normal
+Entre 25 e 29,99	Acima do peso
+Entre 30 e 34,99	Obesidade I
+Entre 35 e 39,99	Obesidade II (severa)
+Acima de 40	Obesidade III (mórbida)
