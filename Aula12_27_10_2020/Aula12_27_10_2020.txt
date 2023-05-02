@@ -1,0 +1,152 @@
+Aula12_27_10_2020
+
+FPOO - Fundamentos de Programação Orientada a Objeto
+
+Objetivos:
+
+até 10:00 - concluir atividades da aula anterior;
+10:00 - 10:20 Café
+10:20 - 11:30 Estruturas de decisão - portanto retornar as 10:20 para a reunião da sala.
+
+*****************************
+Estruturas de decisão - C#
+*****************************
+Capítulo04 do Material de apoio
+
+<p>Obs.: Toda <strong>condição</ strong> retorna um valor lógico / booleano (true ou false)< /p>
+
+**********************************************
+1. Estrutura de decisão simples - if() / se()
+**********************************************
+SINTAXE:
+if (condição) {
+   Executa código SE a condição for verdadeira;
+}
+
+*************
+Exemplo01:
+*************
+int idade = 18; //declarei uma variável do tipo inteira com o valor 18
+if(idade >= 18){  //a condição retorna V (Verdadeiro)
+  Console.Write("Maior de idade"); //exibe na tela a mensagem
+}
+
+*************
+Exemplo02:
+*************
+string usuario = "SENAI"; //declarei uma variável string com o valor "SENAI"
+if(usuario == "SENAI"){  //a condição retorna V (Verdadeiro)
+   Console.Write("Usuário válido");
+}
+
+*********************************************
+Vamos analisar a condição do Exemplo01
+*********************************************
+(idade >= 18) //Essa condição poderá retornar dois valores lógicos: True or False
+   18  >= 18? //Retornará True
+
+Porque???????
+   
+>= maior OU igual
+18 > 18 OU 18 = 18
+     F     OU      V      =  V
+
+*********************************************
+Vamos analisar a condição do Exemplo02
+*********************************************
+usuario   == "SENAI" //Essa condição poderá retornar dois valores lógicos: True or False
+"SENAI" == "SENAI" //Retornará True, por que a variável usuario foi inicializada com "SENAI"
+
+*************************************************************************************
+2. Estrutura de decisão composta - if() ... then ... else / se() ... então ... senão
+*************************************************************************************
+SINTAXE:
+if(condição){
+   Executa código SE a condição for verdadeira;
+}
+else{
+   Executa código SE a condição for falsa;
+}
+
+*************
+Exemplo01:
+*************
+int idade = 18; //declarei uma variável do tipo inteira e inicializei com o valor 18
+if(idade >= 18){  //V
+  Console.Write("Maior de idade"); //exibe na tela a mensagem
+}
+else{
+  Console.Write("Menor de idade"); //exibe na tela a mensagem
+}
+
+*************
+Exemplo02:
+*************
+string usuario = "SENAI"; //declarei uma variável string e inicializei com o valor "SENAI"
+if(usuario == "SENAI"){ //V
+   Console.Write("Usuário válido!");
+}
+else{
+   Console.Write("Usuário inválido!");
+}
+
+*************
+Exemplo03:
+*************
+string usuario = "SENAI";  //declarei uma variável do tipo string e inicializei com o valor "SENAI"
+string senha = "senai115"; //declarei uma variável do tipo string e inicializei com o valor "senai115"
+if(usuario == "SENAI" && senha == "senai115"){ //V
+   Console.Write("Login efetuado com sucesso!!!");
+}
+else{
+   Console.Write("Usuário ou senha inválidos!!!");
+}
+
+Próxima aula - Aula13_29_10_2020
+*******************************************************************
+3. Estrutura de decisão aninhada - if() ... if else ... else / se() ... se senão ... então
+*******************************************************************
+
+*******************************************************************
+4. Estrutura de decisão aninhada - if() ... if else ... else / se() ... se senão ... então
+*******************************************************************
+
+**********
+Desafios:
+**********
+1. Desenvolver um programa (console) que converta um número decimal para binário e de binário para decimal.
+
+2. Desenvolver um programa  (console) que leia um número inteiro qualquer e exiba na tela se este número é "Par" ou "Ímpar".
+
+3. Desenvolver um programa (console) que leia três números (num1, num2, num3) inteiros quaisquer e exiba na tela:
+    3.1. Qual é o maior número;
+    3.2. Qual é o menor número;
+    3.3. Qual é a soma desses números;
+    3.4. Qual a média desses números.
+
+3. Desenvolver um programa  (console) que leia quatro notas bimestrais (n1, n2, n3 e n4) e  calcule a média final (mf) de um aluno qualquer.
+Fórmula para o cálculo da média final:
+mf = (num1 + num2 + num3 + num4) / 4
+
+Com base nessa média exibir a situação do aluno segunda as regras a seguir:
+Se mf for maior ou igual a 5, então exibir na tela "Aprovado";
+Senão, exibir na tela "Reprovado".
+
+4. Desenvolver um programa  (console) que leia quatro notas bimestrais (n1, n2, n3 e n4) e com base nessas quatro notas calcule a média final (mf) de um aluno qualquer. 
+Com base nessa média exibir a situação do aluno segunda as regras a seguir:
+Se mf for menor que 5, então exibir na tela "Reprovado";
+Se mf for maior ou igual que 7, então exibir na tela "Aprovado";
+Senão, exibir na tela "Recuperação".
+
+5. Desenvolver um programa (console) que leia o peso e a altura de um indivíduo e calcule seu IMC de acordo com a fórmula:
+imc = peso / altura ^ 2
+Com base no valor do IMC, o programa deverá exibir na tela a situação da pessoa de acordo com a tabela a seguir:
+
+Resultado		Situação
+Abaixo de 17	Muito abaixo do peso
+Entre 17 e 18,49	Abaixo do peso
+Entre 18,5 e 24,99	Peso normal
+Entre 25 e 29,99	Acima do peso
+Entre 30 e 34,99	Obesidade I
+Entre 35 e 39,99	Obesidade II (severa)
+Acima de 40	Obesidade III (mórbida)
