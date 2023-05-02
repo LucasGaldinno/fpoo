@@ -1,0 +1,64 @@
+Aula08_15_10_2020
+
+EAD SENAI-SP
+https://ead.sp.senai.br/Usuario/Login?ReturnUrl=%2f
+Conforme combinado, entregar certificados dos cursos EAD hoje
+
+Objetivos:
+
+Na aula passada - 08/10/2020
+
+Resumindo:
+1. Ler o enunciado do problema a ser resolvido;
+
+2. Entendimento do que deve ser feito:
+   2.1. Levantar palavras-chave do enunciado do problema;
+   2.2. Levantar as Entrada(s), Processamento(s) e Saída(s);
+
+3. Levantar as instruções necessárias em C# e JS para:
+   3.1. Entrada(s);
+   3.2. Processamento(s);
+   3.3. Saída(s).
+
+^ potência
+Math.Pow(double x, double y);
+onde:
+x é a base;
+y é o expoente.
+
+2 ^ 8 = 256
+2 é a base e 8 é o expoente.
+
+*******************************
+Para a próxima aula: 15/10/2020
+*******************************
+4. Efetuar o cálculo da quantidade de litros de combustível gastos em uma viagem.
+Para obter o cálculo, o usuário deverá fornecer o tempo gasto e a velocidade média durante a viagem. Desta forma será possível obter a distância percorrida com a fórmula:
+****************************** 
+dist = tempo * vel_media
+******************************
+Sendo a autonomia igual a 12Km/litro e tendo o valor da distância, basta calcular a quantidade de litros de combustível utilizada na viagem com a fórmula:
+******************************
+litros_usados = dist / 12
+******************************
+O programa deverá apresentar os valores da velocidade média, tempo gasto na viagem, a distância percorrida e a quantidade de litros utilizada na viagem. Desenvolver em C# (console) e JS.
+
+
+5. Exibir os valores do exercício 3 com 2 casas decimais em C# e JS
+
+Dica para quem está com muita dificuldade em C# / JS
+Humano:
+1. Algoritmo;
+2. Fluxograma com teste de mesa e;
+3. Pseudocódigo.
+Computador
+
+1. Desenvolver uma aplicação console que leia dois números quaisquer, some esses dois números e depois exiba a soma na tela.
+
+Algoritmo:
+Obter o primeiro número; Entrada
+Ober o segundo número; Entrada
+Efetuar a soma (soma = numero1 + numero2); Processamento
+Exbir a soma.                  Saída
+
+Fluxograma:

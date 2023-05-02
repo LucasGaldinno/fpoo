@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=script, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //declarar variavel
+        var tempo, vel_media, dist, litros_usados;
+        
+        //entrada
+        tempo = parseFloat(prompt("Digite o tempo gasto na viagem: "));
+        vel_media = parseFloat(prompt("Digite a velocidade gasta na viagem: "));
+
+        //processamento
+        dist = tempo * vel_media;
+        litros_usados = dist / 12;
+
+        //saida
+        alert("O tempo gasto na viagem é: " + tempo.toFixed(2));
+        alert("A velocidade média é: " + vel_media.toFixed(2));
+        alert("A distância percorrida é: " + dist.toFixed(2));
+        alert("A quantidade de litros usados é: " + litros_usados.toFixed(2));
+
+    </script>
+</body>
+</html>
