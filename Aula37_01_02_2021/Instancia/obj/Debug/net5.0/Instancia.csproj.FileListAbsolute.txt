@@ -1,0 +1,16 @@
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.exe
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.deps.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.runtimeconfig.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.runtimeconfig.dev.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\ref\Instancia.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\bin\Debug\net5.0\Instancia.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.csprojAssemblyReference.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.AssemblyInfoInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.AssemblyInfo.cs
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.csproj.CoreCompileInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\ref\Instancia.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Instancia\obj\Debug\net5.0\Instancia.genruntimeconfig.cache

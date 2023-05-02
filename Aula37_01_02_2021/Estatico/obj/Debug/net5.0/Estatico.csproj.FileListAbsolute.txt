@@ -1,0 +1,16 @@
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.exe
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.deps.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.runtimeconfig.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.runtimeconfig.dev.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\ref\Estatico.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\bin\Debug\net5.0\Estatico.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.csprojAssemblyReference.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.AssemblyInfoInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.AssemblyInfo.cs
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.csproj.CoreCompileInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\ref\Estatico.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Estatico\obj\Debug\net5.0\Estatico.genruntimeconfig.cache

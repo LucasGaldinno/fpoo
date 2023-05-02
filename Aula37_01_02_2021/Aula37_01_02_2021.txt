@@ -1,0 +1,9 @@
+Aula37_01_02_2021
+
+Objetivos:
+
+Atributos e métodos estáticos:
+Capítulo 05 - Página 75
+
+Não necessitam de instância;
+São chamados de atributos ou métodos da classe.

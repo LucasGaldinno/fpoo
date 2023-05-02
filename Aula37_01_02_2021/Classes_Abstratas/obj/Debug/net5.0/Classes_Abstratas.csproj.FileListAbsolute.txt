@@ -1,0 +1,16 @@
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.exe
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.deps.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.runtimeconfig.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.runtimeconfig.dev.json
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\ref\Classes_Abstratas.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\bin\Debug\net5.0\Classes_Abstratas.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.csprojAssemblyReference.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.AssemblyInfoInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.AssemblyInfo.cs
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.csproj.CoreCompileInputs.cache
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\ref\Classes_Abstratas.dll
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.pdb
+F:\PC\Documentos\@ 1S 2021\FPOO\Aula37_01_02_2021\Classes_Abstratas\obj\Debug\net5.0\Classes_Abstratas.genruntimeconfig.cache
